@@ -6,7 +6,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "update_latest": "pnpm up --latest"
   },
   "dependencies": {
     "@nuxt/eslint": "^1.9.0",
